@@ -1,6 +1,4 @@
-<!DOCTYPE html>
 <html lang="en">
-  
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,12 +10,11 @@
 </head>
 
 <body>
+  
   <form class="content" action="sensor.php" method="get">
-
     <h2>Enter Sensor Value: </h2> 
       <input type="number" name="value" min="0" autofocus>
       <button class="submit" type="submit"> Submit </button>    
-
   </form>
 
 </body>
