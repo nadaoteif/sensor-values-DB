@@ -1,9 +1,9 @@
-<!DOCTYPE html>
 <html lang="en">
     <head>
         <title>Database</title>
     </head>
     <body>
+    
     <?php
     $servername = "localhost";
     $username = "root";
